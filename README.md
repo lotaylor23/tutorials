@@ -1,6 +1,4 @@
-# tutorials
-
-## A Tutorial for Multiomics Data Integration using Graph Based Machine Learning
+# A Tutorial for Multiomics Data Integration using Graph Based Machine Learning
 
 In recent years, the field of systems biology has made significant strides, driven by the explosion of multiomics data. Genomics, proteomics, transcriptomics, and metabolomics provide complementary insights into the molecular underpinnings of biology, but analyzing these data sets in isolation often limits our ability to uncover complex biological relationships. The true potential of multiomics lies in integrating these diverse data layers to create a holistic understanding of cellular and organismal processes.
 
@@ -10,26 +8,26 @@ By applying these advanced tools to real-world multiomics datasets, this tutoria
 
 This repository provides a tutorial to introduce participants to the integration of multiomics data from genomics, proteomics, transcriptomics, and metabolomics, focusing on computational approaches to uncover hidden relationships between biological entities. It will cover techniques such as Non-negative Matrix Factorization (NMF), machine learning, and Graph Neural Networks (GNNs) to model multi-layered biological interactions and predict biological outcomes such as disease classification, drug responses, and biomarker discovery. Attendees will gain hands-on experience in processing and analyzing real-world multiomics datasets using open-source tools such as Python, pandas, scikit-learn.
 
-### There are three code notebooks that will be used in this tutorial. Using these code notebooks we will cover:
+## There are three code notebooks that will be used in this tutorial. Using these code notebooks we will cover:
 1.	Non-negative Matrix Factorization (NMF)
 2.	Machine Learning
 3.	Graph Neural Networks (GNNs)
 
-#### What is NMF?
+### What is NMF?
 Non-negative Matrix Factorization (NMF):
 NMF is a matrix factorization technique that helps uncover hidden patterns in complex datasets by decomposing data into non-negative components. It is particularly useful in multiomics, where it can identify latent factors that represent biological processes shared across different layers of omic data. By applying NMF, we can reduce the dimensionality of multi-omics data, making it easier to analyze and visualize complex biological relationships.
 
-#### Why Machine Learning?
+### Why Machine Learning?
 Machine learning algorithms, such as classification, regression, and clustering methods, are essential tools for predictive modeling in multiomics research. These algorithms enable us to develop models that predict disease outcomes, classify disease subtypes, or assess responses to treatments based on large, high-dimensional biological data. By training models on integrated multiomics datasets, we can discover hidden patterns that may be overlooked using traditional statistical methods.
 
-#### How can we apply GNNs?
+### How can we apply GNNs?
 GNNs are a powerful tool for modeling relationships and interactions in graph-structured data. In the context of multiomics, GNNs can model complex biological networks, where nodes represent biological entities (such as genes, proteins, metabolites) and edges represent interactions between them. GNNs can capture the intricate, non-linear relationships between molecular layers, improving our ability to predict biological outcomes like disease progression, drug efficacy, and biomarker identification.
 
 In this session, we will focus on understanding and applying key computational techniques for integrating and analyzing multiomics data. Together, these approaches allow us to gain deeper insights from multiomics data, revealing complex biological relationships that would be difficult to detect through traditional methods. Understanding these computational tools will empower you to unlock the full potential of multiomics in disease research and personalized medicine.
 
-#### Key Computational Approaches for Integrating and Analyzing Multiomics Data
+### Key Computational Approaches for Integrating and Analyzing Multiomics Data
 
-##### Applying Non-negative Matrix Factorization (NMF) for Multiomics Data Integration
+#### _Applying Non-negative Matrix Factorization (NMF) for Multiomics Data Integration_
 Non-negative Matrix Factorization (NMF) is a dimensionality reduction technique commonly used in the analysis of multi-omics datasets. NMF decomposes a non-negative matrix into two non-negative matrices—one representing the relationship between samples and the latent components, and the other representing the relationship between the latent components and the original features. In the context of multiomics data, NMF can uncover shared patterns across different omics layers, reducing the complexity of the data and enabling further analysis such as clustering, classification, and feature extraction.
 
 The following notebook demonstrates how to implement NMF for integrating multiomics data, such as RNA expression, methylation, and protein expression data.
@@ -68,7 +66,7 @@ By using NMF, we can achieve a more integrative understanding of biological data
 
 In the next section, we will implement predictive models for disease classification in python.  This will be done using a Random Forest Classifier over our data set. For this section, download the notebook labeled 2_ implement predictive models for disease classification in python.
 
-##### Applying Machine Learning for Multiomics Data Integration
+#### _Applying Machine Learning for Multiomics Data Integration_
 
 Explanation of the Code:
 Data Preparation:
@@ -97,7 +95,7 @@ The accuracy of the model is computed using accuracy_score, and a more detailed 
 
 In the next section, we will learn how to implement GNNs for  integrating and analyzing multiomics data.  Download the notebook labeled 3_ implement GNNs for  integrating and analyzing multiomics data. You can build the GNN framework in Python, utilizing PyTorch Geometric (a powerful library for GNNs) to handle biological data structured as graphs.
 
-##### Applying GNNs for Multiomics Data Integration
+#### _Applying GNNs for Multiomics Data Integration_
 1. Data Preparation and Graph Construction
 Data Collection: Multiomics data from genomics, transcriptomics, proteomics, etc., are collected.
 #######show results from code notebook
