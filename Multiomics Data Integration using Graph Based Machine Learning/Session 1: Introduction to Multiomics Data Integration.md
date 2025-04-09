@@ -1,3 +1,16 @@
+# ISCB-Africa ASBCB 2025
+
+**Venue:** Lagoon Beach Hotel & Conference Center, Cape Town, South Africa
+
+**Website:** https://www.iscb.org/africa2025/home
+
+**Date of the session:** April 10, 2025 12:00-16:00 SAST
+
+**Instructors/Affiliation:** 
+Loni Taylor, Meharry Medical College, Nashville, TN, USA.
+Bishnu Sarker, Meharry Medical College, Nashville, TN, USA.
+Animesh Acharjee, University of Birmingham, UK.
+
 # 1. Introduction to Multiomics Data Integration
 
 ## Overview:
