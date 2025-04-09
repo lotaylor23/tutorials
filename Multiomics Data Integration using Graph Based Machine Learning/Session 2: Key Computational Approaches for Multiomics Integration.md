@@ -19,6 +19,7 @@ In this session, we will focus on understanding and applying key computational t
 +	**Data Fusion:** The challenge of combining different omics data types (such as genomics and proteomics) to extract meaningful insights while retaining their individual contributions.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkgbucYXs49czJD6hoCmp6Ozbxzqc2D1WXQ&s" alt="data heterogeneity" width="400" height="200">
+Data Heterogeneity: <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkgbucYXs49czJD6hoCmp6Ozbxzqc2D1WXQ&s">Kemp, Jessica & Kwon, Young Jik. (2021). Cancer nanotechnology: current status and perspectives. Nano Convergence. 8. 10.1186/s40580-021-00282-7. </a>
 
 ### 2.	Non-negative Matrix Factorization (NMF):
 +	**What is NMF?** <br>Non-negative Matrix Factorization is a dimensionality reduction technique that factorizes a matrix into two lower-dimensional matrices with non-negative entries. It is particularly useful for extracting latent features from data, where the underlying factors are assumed to be non-negative (i.e., all data points are positive or zero).
@@ -37,7 +38,7 @@ In this session, we will focus on understanding and applying key computational t
 +	**Challenges:** <br>Machine learning models for multiomics data face challenges like overfitting (due to high dimensionality) and interpretability (understanding why the model made a particular decision).
 
 <img src="https://github.com/lotaylor23/tutorials/blob/main/Multiomics%20Data%20Integration%20using%20Graph%20Based%20Machine%20Learning/Images/ML.png" alt="MACHINE LEARNING">
-
+Machine learning modified from: <a href="https://www.turing.com/kb/ultimate-battle-between-deep-learning-and-machine-learning">Deep Learning vs Machine Learning: The Ultimate Battle</a>
 
 ### 4.	Graph Neural Networks (GNNs):
 +	**What are GNNs?** <br>Graph Neural Networks are a type of neural network designed to work with graph-structured data, where nodes represent entities (e.g., genes, proteins, metabolites) and edges represent relationships (e.g., protein-protein interactions, gene regulatory networks).
