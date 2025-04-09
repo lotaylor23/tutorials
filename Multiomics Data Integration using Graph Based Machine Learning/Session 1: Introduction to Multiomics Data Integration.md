@@ -14,6 +14,7 @@ This section will introduce the concept of multiomics and its importance in mode
 +	**Example:** A genome might tell us the genetic predisposition to a disease, while proteomics could show the protein expressions that are actually active in the body.
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcofLQPg_6dEA7F1uUyOKcGE4BXmrKxsLihVjMxYb7x3vSp0wCm8IohgP5eAZlbhZ8VsLXGW8L20qs0nkXpPrhNxE_FXurEOpdUPOnZ46eFtdWfKEkO4qwdFT6TjsorU1uGk95N6OrXpYx/s1600/Genomics+vs+Proteomics.jpg" alt="genomics vs proteomics" width="400" height="200">
+Genomics vs Pproteomics: <a href="https://www.majordifferences.com/2016/01/difference-between-genomics-and.html">MajorDifferences.com</a>
 
 ### 2.	Types of Omics Data:
 +	**Genomics:** The study of genes and their functions, particularly focused on DNA sequences, mutations, and variations that can contribute to disease.
@@ -22,6 +23,7 @@ This section will introduce the concept of multiomics and its importance in mode
 +	**Metabolomics:** The study of metabolites, which are the end products of cellular processes, helping us understand the functional state of the organism.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Metabolomics_schema.png" alt="Types of omics data by Wikimedia" width="400" height="400">
+Metabolomics_schema showing Types of omics data: <a href="https://upload.wikimedia.org/wikipedia/commons/9/98/Metabolomics_schema.png"> by Wikimedia</a>
 
 ### 3.	The Importance of Integrating Multiomics Data:
 +	**Holistic View:** Analyzing different omics layers together provides a comprehensive picture of cellular processes. For example, a genomic mutation might lead to altered gene expression (transcriptomics), which could change protein production (proteomics), ultimately affecting metabolic pathways (metabolomics).
