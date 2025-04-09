@@ -36,7 +36,7 @@ In this session, we will focus on understanding and applying key computational t
 
 +	**Challenges:** <br>Machine learning models for multiomics data face challenges like overfitting (due to high dimensionality) and interpretability (understanding why the model made a particular decision).
 
-[image](https://github.com/user-attachments/assets/e70cce41-9939-4908-86f8-e44547995cac)
+<img src="https://github.com/lotaylor23/tutorials/blob/main/Multiomics%20Data%20Integration%20using%20Graph%20Based%20Machine%20Learning/Images/ML.png" alt="MACHINE LEARNING">
 
 
 ### 4.	Graph Neural Networks (GNNs):
