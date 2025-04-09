@@ -61,7 +61,7 @@ The participants are requested to follow the following steps to prepare their wo
 ### Session 1: 12:00-13:05 hrs CST | Introduction to Multiomics Data Integration.
 + An introduction to the concept of multiomics, highlighting the different types of omics data and the importance of integrating them to uncover deeper biological insights.
 
-### 13:05-13:15 hrs CST - 10 minutes Break/Q&A/Setting up worksapce
+### 13:05-13:15 hrs CST - 10 minutes Break/Q&A/Setting up workspace
 
 ### Session 2: 13:15-13:45 hrs CST | Key Computational Approaches for Multiomics Integration.
 + An overview of key computational methods, including NMF, machine learning, and GNNs, used to integrate and analyze multiomics data.
