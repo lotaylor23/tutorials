@@ -43,7 +43,7 @@ The tutorial is targeted at professionals, researchers, and graduate students wi
 **There are three code notebooks that will be used in this tutorial. Using these code notebooks we will cover:**
 1.	Non-negative Matrix Factorization (NMF)
 2.	Using NMF for Biomarker Discovery
-3.	Graph Neural Networks (GNNs)
+3.	Using Similairity Network Fusion
 
 ### Instructions
 The participants are requested to follow the following steps to prepare their work environment.
