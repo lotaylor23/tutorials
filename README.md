@@ -64,7 +64,7 @@ The participants are requested to follow the following steps to prepare their wo
 ### Session 2: 12:30-13:00 hrs SAST | Key Computational Approaches for Multiomics Integration.
 + An overview of key computational methods, including NMF, machine learning, and GNNs, used to integrate and analyze multiomics data.
 
-### 13:00-13:15 hrs SAST - 10 minutes Break/Q&A/Setting up workspace
+### 13:00-13:15 hrs SAST - 15 minutes Break/Q&A/Setting up workspace
 
 ### Session 3: 13:15-14:15 hrs SAST | Non-negative Matrix Factorization (NMF) for Multiomics Data.
 + A look at how Non-negative Matrix Factorization (NMF) can be applied to decompose complex multiomics data into meaningful biological components.
@@ -76,7 +76,7 @@ The participants are requested to follow the following steps to prepare their wo
 + An hands on introduction to graph based integration and their ability to model complex relationships and interactions in multiomics data.
 + A practical guide on how Similarity Network  can be applied to multiomics data to identify biomarkers.
 
-### 15:45-16:00 hrs SAST- 15 Concluding Remarks and Q&A
+### 15:30-16:00 hrs SAST- 15 Concluding Remarks and Q&A
 
 # Speakers
 ## 1. Loni Taylor<br>
