@@ -13,7 +13,7 @@ Animesh Acharjee, University of Birmingham, UK.
 
 Please cite this tutorial as:
 
-**Bishnu Sarker, Loni Taylor, Animesh Acharjee (2025, April). Tutorial VT1: Multiomics Data Integration using Graph Based Machine Learning. In ISCB-Africa ASBCB 2025 at Lagoon Beach Hotel & Conference Center, April 10, 2025, Cape Town, South Africa.**
+**Loni Taylor, Bishnu Sarker, Animesh Acharjee (2025, April). Tutorial VT1: Multiomics Data Integration using Graph Based Machine Learning. In ISCB-Africa ASBCB 2025 at Lagoon Beach Hotel & Conference Center, April 10, 2025, Cape Town, South Africa.**
 
 # Tutorial VT1: Multiomics Data Integration using Graph Based Machine Learning
 ### Overview:
