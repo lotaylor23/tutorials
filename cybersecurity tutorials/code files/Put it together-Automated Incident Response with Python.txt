@@ -1,3 +1,4 @@
+#bash install appropriate libraries
 #####pip install requests beautifulsoup4 schedule
 
 import requests
@@ -118,6 +119,7 @@ def alert_new_threats(ip_addresses, domains):
 
 #For Splunk, you could use the Splunk SDK for Python to send alerts:
 
+#bash install appropriate libraries
 #####pip install splunk-sdk
 from splunklib.client import Service
 
